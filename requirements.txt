@@ -1,0 +1,14 @@
+
+# Stock Price Agent Dependencies
+google-generativeai==0.8.5
+requests==2.32.3
+pandas==2.2.2
+numpy==2.0.2
+matplotlib==3.10.0
+seaborn==0.13.2
+polygon-api-client==1.15.3
+python-dotenv==1.1.1
+
+# Development dependencies
+jupyter==1.1.1
+ipykernel==6.29.5
