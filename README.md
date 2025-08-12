@@ -189,3 +189,19 @@ pip install python3-tk
 - [ ] Real-time notifications
 - [ ] Portfolio tracking
 - [ ] Backtesting engine
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 📞 Liên hệ
+
+- **GitHub**: [Your GitHub Profile]
+- **Email**: your.email@example.com
+
+## 🙏 Acknowledgments
+
+- [Polygon.io](https://polygon.io/) - Financial data API
+- [Google Gemini](https://ai.google.dev/) - AI analysis
+- [Matplotlib](https://matplotlib.org/) - Data visualization
+- [Pandas](https://pandas.pydata.org/) - Data processing
