@@ -196,8 +196,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Liên hệ
 
-- **GitHub**: [Your GitHub Profile]
-- **Email**: your.email@example.com
+- **Email**: truongthinhnguyen30303@gmail.com
 
 ## 🙏 Acknowledgments
 
